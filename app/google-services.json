@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447363038934",
+    "firebase_url": "https://socialloginapp-c4a92.firebaseio.com",
+    "project_id": "socialloginapp-c4a92",
+    "storage_bucket": "socialloginapp-c4a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447363038934:android:c7b82d9cf9998796",
+        "android_client_info": {
+          "package_name": "com.example.apoorva.socialloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447363038934-h3bcramlrg9fmj03avhhri1t5qb9imph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apoorva.socialloginapp",
+            "certificate_hash": "1a034a665829eab4a846d5d51d2ec3c14c7f9e80"
+          }
+        },
+        {
+          "client_id": "447363038934-t57hktcr6j0u3dulehlcpik24f5vpsd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPua1FvR3OZxtGQep-FlyACy17xQnkuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447363038934-t57hktcr6j0u3dulehlcpik24f5vpsd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
